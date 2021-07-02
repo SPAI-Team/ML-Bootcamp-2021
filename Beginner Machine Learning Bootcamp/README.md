@@ -1,4 +1,4 @@
-<img src="BegMLBC_Logo.png" style="display: block;
+<img src="BegMLBC_Logo.png" style="display: inline-block;
   margin-left: auto;
   margin-right: auto;
   width: 50px;">
