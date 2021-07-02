@@ -1,7 +1,8 @@
-<img src="BegMLBC_Logo.png" style="display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50px;">
+<p align="center">
+  <a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/edit/main/Beginner%20Machine%20Learning%20Bootcamp">
+    <img src="BegMLBC_Logo.png" alt="Logo" width="80" height="80">
+  </a>
+</p>
 
 # SPAI's Beginner Machine Learning Bootcamp 2021
 
