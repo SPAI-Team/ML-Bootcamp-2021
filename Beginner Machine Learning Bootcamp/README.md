@@ -1,7 +1,7 @@
 <img src="BegMLBC_Logo.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75px;">
+  width: 50px;">
 
 # SPAI's Beginner Machine Learning Bootcamp 2021
 
