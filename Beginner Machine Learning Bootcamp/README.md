@@ -103,5 +103,3 @@ The bootcamp's curriculum is designed for participants without prior-programming
     <tr>
 </table>
 
-## Contact Us
-<a href="https://www.instagram.com/spai.sp/"> <img alt="Instagram" src="https://img.shields.io/badge/SPAI.SP-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:SP_AI@ichat.sp.edu.sg"><img alt="Email" src="https://img.shields.io/badge/Email-SP_AI@iChat.sp.edu.sg-blue?style=for-the-badge"></a>
