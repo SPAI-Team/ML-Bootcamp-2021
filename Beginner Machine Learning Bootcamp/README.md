@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/edit/main/Beginner%20Machine%20Learning%20Bootcamp">
+  <a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/edit/main/Beginner%20Machine%20Learning%20Bootcamp">
     <img src="BegMLBC_Logo.png" alt="Logo" width="160" height="160">
   </a>
 </p>
@@ -33,10 +33,10 @@ The bootcamp's curriculum is designed for participants without prior-programming
         </td>
         <td>
             <ul>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/SPAI%20ML%20Bootcamp%20-%20Day%200.pdf">Slides</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/Day%200%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/Day%200%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/Instructor's%20Copy">Instructor's Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/SPAI%20ML%20Bootcamp%20-%20Day%200.pdf">Slides</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/Day%200%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/Day%200%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%200_Basic%20Python%20Programming/Instructor's%20Copy">Instructor's Notebook</a></li>
             </ul>
         </td>
     <tr>
@@ -53,10 +53,10 @@ The bootcamp's curriculum is designed for participants without prior-programming
         </td>
         <td>
             <ul>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/SPAI%20ML%20Bootcamp%20-%20Day%201.pdf">Slides</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/Day%201%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/Day%201%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/Instructor's%20Copy">Instructor's Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/SPAI%20ML%20Bootcamp%20-%20Day%201.pdf">Slides</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/Day%201%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/Day%201%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%201_Exploratory%20Data%20Analysis/Instructor's%20Copy">Instructor's Notebook</a></li>
             </ul>
         </td>
     </tr>
@@ -74,10 +74,10 @@ The bootcamp's curriculum is designed for participants without prior-programming
         </td>
         <td>
             <ul>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/SPAI%20ML%20Bootcamp%20-%20Day%202.pdf">Slides</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/Day%202%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/Day%202%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/Instructor's%20Copy">Instructor's Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/SPAI%20ML%20Bootcamp%20-%20Day%202.pdf">Slides</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/Day%202%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/Day%202%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%202_Data%20Pre-Processing/Instructor's%20Copy">Instructor's Notebook</a></li>
             </ul>
         </td>
     </tr>
@@ -94,10 +94,10 @@ The bootcamp's curriculum is designed for participants without prior-programming
         </td>
         <td>
             <ul>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/SPAI%20ML%20Bootcamp%20-%20Day%203.pdf">Slides</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/Day%203%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/Day%203%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
-                <li><a href="https://github.com/Tien-Cheng/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/Instructor's%20Copy">Instructor's Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/SPAI%20ML%20Bootcamp%20-%20Day%203.pdf">Slides</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/Day%203%20Tutorial%20(Participant).ipynb">Tutorial Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/Day%203%20Practical%20(Participant).ipynb">Practical Notebook</a></li>
+                <li><a href="https://github.com/SPAI-Team/ML-Bootcamp-2021/tree/main/Beginner%20Machine%20Learning%20Bootcamp/Day%203_Hands-On%20Machine%20Learning/Instructor's%20Copy">Instructor's Notebook</a></li>
             </ul>
         </td>
     <tr>
