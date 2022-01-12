@@ -85,7 +85,7 @@ The bootcamp's curriculum is designed for participants without prior-programming
         <td>Day 3 : Hands-On Machine Learning</td>
         <td>
             <ul>
-                <li>Introduction to ML Probles and Models</li>
+                <li>Introduction to ML Problems and Models</li>
                 <li>Classification Model</li>
                 <li>Regression Model</li>
                 <li>Overfitting vs Underfitting</li>
